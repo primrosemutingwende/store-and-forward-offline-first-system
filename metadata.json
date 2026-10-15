@@ -1,0 +1,6 @@
+{
+  "name": "Equator MedFlow - Store & Forward Offline Clinic OS",
+  "description": "An offline-first, store-and-forward clinic management system with resilient local IndexedDB, transactional outbox queue, two-way sync, conflict resolution, and clinical workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

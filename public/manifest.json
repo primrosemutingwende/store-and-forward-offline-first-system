@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "Equator MedFlow Offline Clinic",
+  "short_name": "MedFlow",
+  "description": "Store-and-forward offline-first clinical management system for rural and low-connectivity health clinics.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0d9488",
+  "background_color": "#f8fafc",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
